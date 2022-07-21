@@ -5,3 +5,5 @@ Blog application for news portal
 - PHP (Laravel)
 - ( HTML, CSS,  SCSS)
 - JS ( VUE )
+
+
